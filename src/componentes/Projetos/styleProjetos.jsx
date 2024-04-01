@@ -1,7 +1,9 @@
 import styled from "styled-components"
 
 export const MainProjetos = styled.main`
-margin-top: 2rem;  
+background-color: black;
+width:100%;
+height: 100vh;;
 display: flex;
 flex-direction:column;
 text-align: center;
@@ -18,6 +20,7 @@ export const Barbearia = styled.img `
     height: 20vh;
 `
 export const DivSec1 = styled.div`
+margin-top: 2rem;
 display: flex;  
 justify-content: space-around;
 `

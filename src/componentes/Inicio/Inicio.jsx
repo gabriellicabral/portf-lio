@@ -3,6 +3,7 @@ import * as S from "./styleInicio.jsx"
 import Icon from "./imgInicio/icon.png"
 
 
+
 export default function Inicio(){
     return(
         <S.Main>
