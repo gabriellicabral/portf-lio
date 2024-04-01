@@ -3,7 +3,7 @@ import styled from "styled-components"
 export const MainSobre = styled.main`
 background-color: black;
 width:100%;
-height: 100vh;
+height: 90vh;
 display: flex;
  align-items:center;
 justify-content: space-evenly;
@@ -17,7 +17,6 @@ export const CaixaSobre = styled.div`
 flex-direction: column;
 width: 40%;
 display: flex;
-
 text-align: left;
 
 h1{
